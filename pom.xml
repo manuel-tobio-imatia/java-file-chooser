@@ -95,7 +95,7 @@
 						</goals>
 						<configuration>
 							<headerType>gui</headerType>
-							<outfile>target/ElasticPruebaFileSelector.exe</outfile>
+							<outfile>target/JavaFileChooser.exe</outfile>
 							<jar>
 								target/${project.artifactId}-${project.version}.jar</jar>
 							<!-- if <dontWrapJar>true</dontWrapJar> change to
